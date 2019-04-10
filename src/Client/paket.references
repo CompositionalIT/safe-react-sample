@@ -1,0 +1,10 @@
+group Client
+    FSharp.Core
+    Fable.Elmish.Debugger
+    Fable.Elmish.React
+    Fable.Elmish.HMR
+    Fable.Core
+    Fable.Recharts
+    Fulma
+    Fable.FontAwesome.Free
+
